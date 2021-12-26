@@ -17,4 +17,57 @@ Here again is the original poll:
 
 ## Watch the video on Youtube
 
-<iframe width="1150" height="650" src="https://www.youtube.com/embed/ZM7iA9p-3qs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 
+How can I embed a YouTube video on GitHub wiki pages?
+Asked 9 years, 4 months ago
+Active 8 days ago
+Viewed 193k times
+
+388
+
+
+87
+I am fairly new to markup (though it's extremely easy to pickup). I am working on a package and am trying to get the wiki pages looking nice as a help manual. I can insert a YouTube video link into the wiki page pretty easily but how do I embed a YouTube video. I know this may not be possible.
+
+I have read you can use HTML tags so I tried embedding with HTML per this link as follows:
+
+<object width="425" height="350">
+  <param name="movie" value="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg" />
+  <param name="wmode" value="transparent" />
+  <embed src="http://www.youtube.com/user/wwwLoveWatercom?v=BTRN1YETpyg"
+         type="application/x-shockwave-flash"
+         wmode="transparent" width="425" height="350" />
+</object>
+And saved the page but nothing happened.
+
+Is it possible to embed a YouTube video on GitHub wiki pages?
+If so how?
+video
+github
+youtube
+embed
+markdown
+Share
+Improve this question
+Follow
+edited Jun 25 at 19:53
+
+damon
+13.5k1414 gold badges5252 silver badges7373 bronze badges
+asked Aug 4 '12 at 0:12
+
+Tyler Rinker
+102k6060 gold badges301301 silver badges487487 bronze badges
+3
+See also stackoverflow.com/questions/4279611/… – 
+Brian Burns
+ Nov 17 '16 at 15:44
+Add a comment
+13 Answers
+
+618
+
+It's not possible to embed videos directly, but you can put an image which links to a YouTube video:
+
+[![Object Exploration in Python with dir and type](https://img.youtube.com/vi/ZM7iA9p-3qs/0.jpg)](https://www.youtube.com/watch?v=ZM7iA9p-3qs)
+
