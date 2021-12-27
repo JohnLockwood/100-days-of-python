@@ -1,9 +1,11 @@
 # 100 Days of Python
 
 
-* [Day 1](day-01/README.md) -- Python Object Puzzle
+* [Day 1 -- Python Object Puzzle](day-01/README.md) 
 What sorts of things in Python are not an object?  Find out in the Youtube video.
 
+* [Day 2 -- Python function arguments](day-02/README.md).
+I post Part One of my Article on Python Function Arguments
 
 ## More Information
 

@@ -1,3 +1,3 @@
-# Day 2 README
+# Day 2 of 100 Days of Python
 
-Code something cool and talk about it.
+Today, I finished up part one of my [Python Function Arguments](https://codesolid.com/python-function-arguments-and-parameters-examples/) article.  You can also run a version of the article as a [Jupyter notebook](python-function-argument-examples.ipynb).
