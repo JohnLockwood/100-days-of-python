@@ -7,6 +7,12 @@ What sorts of things in Python are not an object?  Find out in the Youtube video
 * [Day 2 -- Python function arguments](day-02/README.md).
 I post Part One of my Article on Python Function Arguments
 
+...
+
+* [Day 8 -- Jupyter Notebook and Jupyter Lab samples](day-08/README.md).
+Sample Jupyter Notebook / Jupyter Lab demo for a random walk plotted with matplotlib, posted in the CodeSolid [Python Tools](https://codesolid.com/python-tools-the-best-tools-for-learning-and-development/) article.
+
+
 ## More Information
 
 Read the [Zen of 100 Days of Python](https://codesolid.com/zen-of-100-days-of-python/) to achieve instant enlightenment.
