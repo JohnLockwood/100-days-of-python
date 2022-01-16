@@ -7,6 +7,10 @@ What sorts of things in Python are not an object?  Find out in the Youtube video
 * [Day 2 -- Python function arguments](day-02/README.md).
 I post Part One of my Article on Python Function Arguments
 
+* [Day 3 -- Python function arguments, continued](day-03/README.md).
+This was originally part 2 of the Python function arguments article, but as it turned out I consolidated
+them both into one article.
+
 ...
 
 * [Day 8 -- Jupyter Notebook and Jupyter Lab samples](day-08/README.md).
