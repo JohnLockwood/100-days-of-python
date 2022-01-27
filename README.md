@@ -8,15 +8,31 @@ What sorts of things in Python are not an object?  Find out in the Youtube video
 I post Part One of my Article on Python Function Arguments
 
 * [Day 3 -- Python function arguments, continued](day-03/README.md).
-This was originally part 2 of the Python function arguments article, but as it turned out I consolidated
-them both into one article.
+This was originally part 2 of the Python function arguments article, but as it turned out I consolidated them both into one article.
 
-...
+* [Day 4 -- Final Day for Python Function Arguments](day-04/README.md)
+Article link only.
+
+* [Day 5 -- Installing PyEnv on Mac](day-05/README.md)
+Article link only.
+
+* [ Day 6 -- Pip Vs Pipenv](day-06/README.md)
+Article link and some code I used while writing the article.
+
+* [Day 7 -- How To Learn To Program](day-07/README.md)
+Article link only.
 
 * [Day 8 -- Jupyter Notebook and Jupyter Lab samples](day-08/README.md).
 Sample Jupyter Notebook / Jupyter Lab demo for a random walk plotted with matplotlib, posted in the CodeSolid [Python Tools](https://codesolid.com/python-tools-the-best-tools-for-learning-and-development/) article.
 
+* [Day 9 - Benchmarks for the Is Python Slow Article](day-09/README.md)
+Scripts and test code for the Python vs. Java benchmarks from the article.
 
+* [Day 10 - Embarrassing asyncio hello](day-10/README.md)
+I'm blushing already.  Seriously, don't click there.
+
+* [Day 11 - Package demo directory for the Python Packages article](day-11/README.md)
+See the article in the README for more details.
 ## More Information
 
 Read the [Zen of 100 Days of Python](https://codesolid.com/zen-of-100-days-of-python/) to achieve instant enlightenment.
