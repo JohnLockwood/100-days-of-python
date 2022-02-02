@@ -33,6 +33,10 @@ I'm blushing already.  Seriously, don't click there.
 
 * [Day 11 - Package demo directory for the Python Packages article](day-11/README.md)
 See the article in the README for more details.
+
+* [Day 12 - Basic Pip Numpy/Pandas/MatPlotlib and Jupyter Lab](day-12/README.md)
+
+* [Day 13 - Some "scratch" code in a Spyder project for a Dictionay Compare Article](day-13/README.md)
 ## More Information
 
 Read the [Zen of 100 Days of Python](https://codesolid.com/zen-of-100-days-of-python/) to achieve instant enlightenment.

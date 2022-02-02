@@ -1,0 +1,5 @@
+pandas==1.4.0
+jupyterlab==3.2.8
+matplotlib==3.5.1
+xeus-python
+notebook
