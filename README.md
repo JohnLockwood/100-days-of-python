@@ -37,6 +37,8 @@ See the article in the README for more details.
 * [Day 12 - Basic Pip Numpy/Pandas/MatPlotlib and Jupyter Lab](day-12/README.md)
 
 * [Day 13 - Some "scratch" code in a Spyder project for a Dictionay Compare Article](day-13/README.md)
+
+* [Day 14 - Python Lists vs Arrays](day-14/README.md)
 ## More Information
 
 Read the [Zen of 100 Days of Python](https://codesolid.com/zen-of-100-days-of-python/) to achieve instant enlightenment.
